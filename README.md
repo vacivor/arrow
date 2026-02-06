@@ -11,9 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages). 
 -->
 
-Arrow is a tiny web framework inspired by gin and iris, built on Dart's
-`dart:io` `HttpServer`. It supports simple routing and path parameters like
-`/users/{id}`.
+Arrow is a tiny web framework, built on Dart's `dart:io` `HttpServer`. 
 
 ## Features
 
